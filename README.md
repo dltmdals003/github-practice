@@ -1,6 +1,6 @@
 # Github-practice
 My first Github practice Repository
-It is a Repository to practice how to use Github
+Repository for Learning How to Use GitHub
 
 ## Goals
 - Make Repository
